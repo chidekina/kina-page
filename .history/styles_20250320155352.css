@@ -1,0 +1,8 @@
+:root{
+    --main-font: "Roboto", sans-serif;
+    --primary
+}
+
+body {
+    font-family: var(--main-font);
+}
